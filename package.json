@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fither/coapnode/issues"
   },
-  "homepage": "https://github.com/fither/coapnode#readme"
+  "homepage": "https://github.com/fither/coapnode#readme",
+  "dependencies": {
+    "coap": "^0.23.1"
+  }
 }
